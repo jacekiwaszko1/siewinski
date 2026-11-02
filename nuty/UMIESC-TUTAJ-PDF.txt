@@ -1,0 +1,24 @@
+Umieść w tym katalogu następujące pliki, bez zmiany ich nazw:
+
+siewinski-andrzej--missa-pro-defunctis-20260913.pdf
+siwinski-andrzej--missa-pro-defunctis-01-ob-1.pdf
+siwinski-andrzej--missa-pro-defunctis-02-ob-2.pdf
+siwinski-andrzej--missa-pro-defunctis-03-vn-1.pdf
+siwinski-andrzej--missa-pro-defunctis-04-vn-2.pdf
+siwinski-andrzej--missa-pro-defunctis-05-bc.pdf
+siewinski-andrzej--motetti--1-salve-mundi-domina.pdf
+siwinski-andrzej--motetti--1-salve-mundi-domina-01-vn1.pdf
+siwinski-andrzej--motetti--1-salve-mundi-domina-02-vn2.pdf
+siwinski-andrzej--motetti--1-salve-mundi-domina-03-bc.pdf
+siewinski-andrzej--motetti--2-salve-arca-federis.pdf
+siwinski-andrzej--motetti--2-salve-arca-federis-01-vn1.pdf
+siwinski-andrzej--motetti--2-salve-arca-federis-02-vn2.pdf
+siwinski-andrzej--motetti--2-salve-arca-federis-03-bc.pdf
+siewinski-andrzej--motetti--3-salve-o-purerpera-templum-trinitatis.pdf
+siwinski-andrzej--motetti--3-salve-o-purerpera-templum-trinitatis-01-vn1.pdf
+siwinski-andrzej--motetti--3-salve-o-purerpera-templum-trinitatis-02-vn2.pdf
+siwinski-andrzej--motetti--3-salve-o-purerpera-templum-trinitatis-03-bc.pdf
+siewinski-andrzej--motetti--4-salve-horologium.pdf
+siwinski-andrzej--motetti--4-salve-horologium-01-vn1.pdf
+siwinski-andrzej--motetti--4-salve-horologium-02-vn2.pdf
+siwinski-andrzej--motetti--4-salve-horologium-03-bc.pdf
